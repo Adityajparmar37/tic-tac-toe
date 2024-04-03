@@ -7,7 +7,7 @@ function ErrorFallback({
       <p>Something went wrong:</p>
       <pre>{error.message}</pre>
       <button onClick={resetErrorBoundary}>
-        Try again
+        Try again !
       </button>
     </div>
   );
